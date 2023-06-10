@@ -3,3 +3,5 @@ O projeto é um gerenciador de acessos a determinados sistemas por perfis e usu�
 Para executar o código deve ser instalado as bibliotecas customtkinter, tkinter, openpyxl, pillow e pathlib. Separe uma pasta para o projeto para que o arquivo xlsx seja criado lá e coloque dentro dela o icone 'matrix2.ico' e a imagem 'tardis_image', caso contrário o programa apresentará erro.
 
 Link do youtube vídeo teste do programa: https://www.youtube.com/watch?v=mEoYSqTbumg
+
+Projeto desenvolvido por Marcos Paulo Nogueira Mendes (Estácio: 202301160537) e Flavio Brayan Balbino Silva (Estácio: 202301532477).
